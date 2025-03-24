@@ -134,7 +134,7 @@ Recommendation:
 Implement real-time inventory tracking, particularly in the Houston center, to better anticipate demand and avoid stockouts. Additionally, improve the distribution process to ensure that popular items are more evenly distributed across
 regions, reducing the likelihood of bottlenecks in one location.
 
-Conclusion & Recommendations
+# Conclusion & Recommendations
 Obstacles:
  Data Gaps: One of the key obstacles we encountered was related to the fact that the  data used in this analysis was generated and did not reflect real-world conditions. This particularly impacted pricing data, which may not align with actual market conditions.
 
