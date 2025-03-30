@@ -1,7 +1,6 @@
 # Boolean-Capstone
 A project using SQL and Tableau to analyse a given data set
 
-Behind the Look: Decoding Sales, Customers, and Inventory
 Executive Summary
 Welcome to a comprehensive analysis of sales performance, customer demographics, product
 performance, and inventory management for our e-commerce business. This report distills the
