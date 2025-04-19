@@ -1,5 +1,5 @@
 # Boolean-Capstone
-A project using SQL and Tableau to analyse a given data set
+A project using SQL and Tableau to analyse a provided data set
 
 Behind the Look: Decoding Sales, Customers, and Inventory
 Executive Summary
