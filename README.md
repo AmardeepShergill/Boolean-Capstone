@@ -1,7 +1,7 @@
 # Boolean-Capstone
 A project using SQL and Tableau to analyse a given data set as the final project from the bootcamp
 
-Executive Summary
+Executive Summary  
 Welcome to a comprehensive analysis of sales performance, customer demographics, product
 performance, and inventory management for our e-commerce business. This report distills the
 key insights and metrics that will guide the company toward optimizing its operations. Our
