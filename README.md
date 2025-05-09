@@ -1,4 +1,4 @@
-# Boolean-Capstone
+# Boolean-Capstone 
 A project using SQL and Tableau to analyse a given data set as the final project from the bootcamp
 
 Executive Summary  
