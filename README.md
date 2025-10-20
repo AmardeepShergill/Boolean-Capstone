@@ -17,6 +17,7 @@ The analysis was conducted under the following assumptions, which shaped our exp
 # Sales and Website Activity
 - Which parts of the website attract the most visitors, and where is the traffic originating from (email, direct, organic)?
 - How does traffic correlate with sales, and which sources drive higher conversion rates?
+
   
 # Customer Demographics and Behavior
 - What are the key demographic profiles (age, gender, location) of our customers?
