@@ -160,6 +160,5 @@ Bartholomew
 Rebecca 
 Sabona
 
-
 Conclusion
 This report highlights the key areas where the company can improve its operations based on a  thorough analysis of sales, customer demographics, product performance, and inventory management. By implementing the recommendations provided, the company can capitalize on growth opportunities, optimize its product offerings, and ensure smoother inventory management across its distribution centers.
